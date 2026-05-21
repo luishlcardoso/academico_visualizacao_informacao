@@ -52,8 +52,8 @@ Ranking das subformações vegetais com maior extensão territorial, com destaqu
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/vegetacao-brasil.git
-cd vegetacao-brasil
+git clone https://github.com/seu-usuario/academico_visualizacao_informacao.git
+cd academico_visualizacao_informacao
 ```
 
 ### 2. Instale as dependências
